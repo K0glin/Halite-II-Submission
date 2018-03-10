@@ -1,5 +1,4 @@
 # Halite-II-Submission
-=======================
 Bot submission for the Halite-II Challenge in Python
 
 # Observations, Interpretation and Conclusions
